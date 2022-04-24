@@ -1,5 +1,6 @@
 var MongoClient = require('mongodb').MongoClient;
-var url = "mongodb+srv://thp97coder:butcherfithack97@cluster0.vvbyi.mongodb.net/Carinfo?retryWrites=true&w=majority";
+var url = "mongodb+srv://thp********:***************@cluster0.vvbyi.mongodb.net/*********?retryWrites=true&w=majority";
+//remember to write the syntax above again to connect to your MongoDB database account
 
 //syntax to read, create, write content files of Nodejs
 var fs = require('fs');
