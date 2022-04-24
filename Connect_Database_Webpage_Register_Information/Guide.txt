@@ -1,0 +1,37 @@
+	Connect nodejs with MongoDB database, then find and retrieve data. 
+    Next, using nodejs syntax to create a new json or txt file and write these data into it. 
+    After that, use JavaScript fetch API, or Ajax to connect to this JSON or txt file,
+     then retrieve data and display it into any element in HTML file
+
+*In this document, I’m going to present method 3*
+
+*I got 4 files for this example, “test1.html”, “test2.html”, “test2.js”,
+ and  “Userdata1_mongoDB.json”*. 
+
+“test2.js” file hold Node.js syntax to connect with MongoDB database, html page, read,
+ create, and write content inside JSON file
+
+“test1.html” hold form syntax for user to register
+
+“test2.html” hold table syntax to display user information data, and AJAX syntax to parse 
+and retrieve data from JSON file
+
+The “Userdata1_mongoDB.json” JSON file is an empty file that is used to wait for user
+ to register their account information in order to write these information into it.
+  After this step finish, test2.html will be opened and present user information on it
+
+
+
+
+//output from console or terminal must be like the example below
+
+PS C:\xampp\htdocs\web_develop_project> node test2.js
+Running server on PORT 8080...
+{ name_input: 'FGTRHPKBNM', email_input: 'FGTRHPKBNM@outlook.com' }
+
+                 !!!We have a new user register our page.!!!
+                 !!!User's data have been inserted to MongoDB Database!!!
+Successfully writting content to Userdata1_mongoDB.json!!!
+
+
+//output from the webpage will be seen in photos attach to this folder
