@@ -64,7 +64,6 @@ app.post('/test2',urlencodedParser, function(req, res) {
 //you have to write:  app.post('/test1', function(req, res)
 
    console.log(req.body);
-    // res.redirect('/');
      MongoClient.connect(url, function(err, db) {
          if (err) {
              console.log(err)
@@ -106,7 +105,7 @@ app.post('/test2',urlencodedParser, function(req, res) {
      //after writing data into JSON file, test2.html file will open
      //I set 15 seconds because the time waiting for data write into JSON file can be 
      //longer than 3 seconds
-     setTimeout(()=>{res.redirect('/test2')},15000);
+     setTimeout(()=>{res.redirect('/')},15000);
     
 });
  
