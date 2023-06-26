@@ -28,5 +28,8 @@
  ![image](https://user-images.githubusercontent.com/82598726/181828843-3ba0f2e8-a5dc-4268-b646-5b21898e1139.png) ![image](https://user-images.githubusercontent.com/82598726/181828934-4524165b-801b-44a8-97b4-3966d2eb3c93.png)
 
 
+# 3. License:
+
+![image](https://github.com/phuongtrieu97coder/Nodejs_project/assets/82598726/f7e7b3d8-8ced-4c8d-99e8-b418e56538e6)
 
  
