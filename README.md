@@ -13,7 +13,7 @@
 
 ### a. Programming languages:
 
->  ![image](https://img.shields.io/badge/Node-NodeJS-brightgreen)  ![image](https://img.shields.io/badge/React-ReactJS-blue) ![image](https://img.shields.io/badge/HTML-HTML5-orange) ![image](https://img.shields.io/badge/CSS-CSS3-blue) ![image](https://img.shields.io/badge/SASS-SASS-ff69b4) ![image](https://img.shields.io/badge/B-Bootstrap-blueviolet) ![image](https://img.shields.io/badge/W3CSS-W3CSS-green) ![image](https://img.shields.io/badge/JS-JavaScript-yellow) ![image](https://img.shields.io/badge/jQuery-jQuery-black) ![image](https://img.shields.io/badge/A-AngularJS-red) ![image](https://img.shields.io/badge/SQL-SQL-blue) ![image](https://img.shields.io/badge/JSON-{JSON}-black)
+![Static Badge](https://img.shields.io/badge/Node-NodeJS-brightgreen)  ![Static Badge](https://img.shields.io/badge/React-ReactJS-blue) ![Static Badge](https://img.shields.io/badge/HTML-HTML5-orange) ![Static Badge](https://img.shields.io/badge/CSS-CSS3-blue) ![Static Badge](https://img.shields.io/badge/SASS-SASS-ff69b4) ![Static Badge](https://img.shields.io/badge/B-Bootstrap-blueviolet) ![Static Badge](https://img.shields.io/badge/W3CSS-W3CSS-green) ![Static Badge](https://img.shields.io/badge/JS-JavaScript-yellow) ![Static Badge](https://img.shields.io/badge/jQuery-jQuery-black) ![Static Badge](https://img.shields.io/badge/A-AngularJS-red) ![Static Badge](https://img.shields.io/badge/SQL-SQL-blue) ![Static Badge](https://img.shields.io/badge/JSON-{JSON}-black)
 
 ### b. IDE, Software:
 
