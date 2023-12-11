@@ -2,6 +2,8 @@
 
 ![image](https://user-images.githubusercontent.com/82598726/181835430-9d3eb06e-2fa7-454d-a7c9-270aad262ddf.png)
 
+# NodeJS Projects
+
 # 1. Purpose:
 
 - This repository contains all the projects that have been made using NodeJS that combine with other languages most of the time. 
