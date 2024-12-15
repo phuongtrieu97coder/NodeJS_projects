@@ -1,6 +1,4 @@
- ![image](https://img.shields.io/badge/NodeJS-black?style=for-the-badge&logo=node.js) ![image](https://img.shields.io/badge/ReactJS-black?style=for-the-badge&logo=react) ![image](https://img.shields.io/badge/mongoDB-black?style=for-the-badge&logo=mongodb)  ![image](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5) ![image](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3) ![image](https://img.shields.io/badge/Bootstrap-white?style=for-the-badge&logo=bootstrap) ![image](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript) ![image](https://img.shields.io/badge/jQuery-black?style=for-the-badge&logo=jquery) ![image](https://img.shields.io/badge/JSON-black?style=for-the-badge&logo=json)
-
-![image](https://user-images.githubusercontent.com/82598726/181835430-9d3eb06e-2fa7-454d-a7c9-270aad262ddf.png)
+![image](https://github.com/user-attachments/assets/21195cf5-9ac4-4803-9c01-cad5f2e5fd15) ![image](https://user-images.githubusercontent.com/82598726/181835430-9d3eb06e-2fa7-454d-a7c9-270aad262ddf.png)
 
 # NodeJS Projects
 
